@@ -1,0 +1,8 @@
+pandas==0.25.1
+numpy==1.17.0
+regex==2019.8.19
+boto3==1.9.215
+torch==1.2.0
+tqdm==4.35.0
+requests==2.22.0
+scikit-learn==0.21.3
