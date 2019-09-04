@@ -1,5 +1,5 @@
 # Humor Detection
-## Code and Datasets for the Paper "Humor Detection: A Transformer Gets the Last Laugh" by Orion Weller and Kevin Seppi
+## Code and Datasets for the Paper ["Humor Detection: A Transformer Gets the Last Laugh"](https://arxiv.org/abs/1909.00252) by Orion Weller and Kevin Seppi
 The repository contains the following:
  - A way to regenerate the results found in the paper, by running `bash run_bert.sh`.  
  - The full datasets referenced in the paper (short jokes, puns, and the reddit dataset) are located in `full_datasets` whereas the `data` folder contains the split files used for training and testing.  The file `create_data.sh` will create the splits (slightly different from the ones used in the paper - see `create_data.sh`).
@@ -7,8 +7,8 @@ The repository contains the following:
 
 **This repository is is not maintained and will not be updated.**
 
-## How to cite this paper:
-Authors of scientific papers who use this repository are encouraged to cite the following paper:
+## Reference:
+If you found this repository helpful, please consider citing the following:
 ```
 @ARTICLE{humorDetection2019,
   title={Humor Detection: A Transformer gets the Last Laugh},
