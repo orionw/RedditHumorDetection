@@ -5,7 +5,7 @@ The repository contains the following:
  - The full datasets referenced in the paper (short jokes, puns, and the reddit dataset) are located in `full_datasets` whereas the `data` folder contains the split files used for training and testing.  The file `create_data.sh` will create the splits (slightly different from the ones used in the paper - see `create_data.sh`).
 - pytorch_pretrained_bert contains files used by the model - these files are from the [huggingface repo](https://github.com/huggingface/pytorch-transformers#Training-large-models-introduction,-tools-and-examples) and are NOT up to date with the current `pytorch-transformers` repo.  
 
-**This repository is is not maintained and will not be updated.**
+**This repository is not maintained and will not be updated.**
 
 ## Reference:
 If you found this repository helpful, please consider citing the following:
